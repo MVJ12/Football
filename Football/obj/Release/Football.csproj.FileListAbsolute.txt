@@ -1,0 +1,9 @@
+C:\Manuel\TAL\Football\Football\obj\Release\Football.exe
+C:\Manuel\TAL\Football\Football\obj\Release\Football.pdb
+C:\Manuel\TAL\Football\Football\bin\Release\Football.exe.config
+C:\Manuel\TAL\Football\Football\bin\Release\Football.exe.manifest
+C:\Manuel\TAL\Football\Football\bin\Release\Football.application
+C:\Manuel\TAL\Football\Football\bin\Release\Football.exe
+C:\Manuel\TAL\Football\Football\bin\Release\Football.pdb
+C:\Manuel\TAL\Football\Football\obj\Release\Football.exe.manifest
+C:\Manuel\TAL\Football\Football\obj\Release\Football.application

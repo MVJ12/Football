@@ -1,0 +1,10 @@
+C:\Manuel\TAL\Football\Football\bin\Debug\Football.exe.config
+C:\Manuel\TAL\Football\Football\bin\Debug\Football.exe
+C:\Manuel\TAL\Football\Football\bin\Debug\Football.pdb
+C:\Manuel\TAL\Football\Football\obj\Debug\Football.csprojResolveAssemblyReference.cache
+C:\Manuel\TAL\Football\Football\obj\Debug\Football.exe
+C:\Manuel\TAL\Football\Football\obj\Debug\Football.pdb
+C:\Manuel\TAL\Football\Football\bin\Debug\Football.exe.manifest
+C:\Manuel\TAL\Football\Football\bin\Debug\Football.application
+C:\Manuel\TAL\Football\Football\obj\Debug\Football.exe.manifest
+C:\Manuel\TAL\Football\Football\obj\Debug\Football.application
